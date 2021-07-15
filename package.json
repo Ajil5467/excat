@@ -1,5 +1,5 @@
 {
-  "name": "wcat",
+  "name": "ecat",
   "version": "1.0.0",
   "description": "",
   "main": "script.js",
@@ -7,7 +7,7 @@
     "fs": "^0.0.1-security"
   },
   "bin": {
-    "wcat": "script.js"
+    "excat": "script.js"
   },
   "devDependencies": {},
   "scripts": {
@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ajil5467/wcat.git"
+    "url": "git+https://github.com/Ajil5467/ecat.git"
   },
   "author": "Ajil T U (ajil5467)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Ajil5467/wcat/issues"
+    "url": "https://github.com/Ajil5467/ecat/issues"
   },
-  "homepage": "https://github.com/Ajil5467/wcat#readme"
+  "homepage": "https://github.com/Ajil5467/ecat#readme"
 }
