@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-//remove this command when you restart this project....march 27 wcat session completed
+
 const fs = require("fs");
 
 // read file abc.txt in ut-8 format
